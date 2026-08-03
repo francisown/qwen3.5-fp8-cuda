@@ -1,0 +1,44 @@
+# Model checkpoints (multi-GB; download separately)
+model/
+*.safetensors
+*.safetensors.index.json
+
+# Local work records and staged cleanup data
+.workbuddy/
+待删除/
+待删除备份-*/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# IDE and OS metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# CUDA/MSVC build products
+*.dll
+*.exp
+*.lib
+*.obj
+*.pdb
+
+# Generated reports, profiling, and benchmark outputs
+outputs/
+*.nsys-rep
+*.ncu-rep
+*.sqlite
+*.csv
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
