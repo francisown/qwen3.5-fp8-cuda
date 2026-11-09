@@ -2,7 +2,7 @@
 
 # Qwen3.5-4B FP8 CUDA Inference Engine
 
-**A text-only, batch-1 inference engine with hand-written CUDA kernels for the hybrid Qwen3.5-4B architecture on NVIDIA Blackwell GPUs**
+**A text-only, batch-1 inference engine with purpose-built CUDA kernels for the hybrid Qwen3.5-4B architecture on NVIDIA Blackwell GPUs**
 
 **Language: [English](README.md) | [简体中文](README_CN.md)**
 

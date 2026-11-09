@@ -2,7 +2,7 @@
 
 # Qwen3.5-4B FP8 CUDA 推理引擎
 
-**面向 NVIDIA Blackwell GPU、使用手写 CUDA Kernel 的 Qwen3.5-4B 混合架构文本推理引擎**
+**面向 NVIDIA Blackwell GPU、使用定制 CUDA 算子的 Qwen3.5-4B 混合架构文本推理引擎**
 
 **语言：[English](README.md) | [简体中文](README_CN.md)**
 
